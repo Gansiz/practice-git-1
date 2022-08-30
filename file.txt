@@ -3,3 +3,5 @@ London is the capital of GB
 Kiev is the capital of Ukraine
 Paris is the capital of France
 
+Warsaw is a capital of Poland
+Prague is a capital of Czech
