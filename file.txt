@@ -5,3 +5,5 @@ Paris is the capital of France
 
 Warsaw is a capital of Poland
 Prague is a capital of Czech
+
+tests for bots
